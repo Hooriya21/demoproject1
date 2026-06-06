@@ -1,0 +1,3 @@
+my first git file
+ i am gonna push it...
+ this is my append 
